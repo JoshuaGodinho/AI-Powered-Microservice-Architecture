@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshu\\source\\repos\\eshop-distributed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C93E6E-64C1-2C2D-B301-852C7CCA6F88}|Basket\\Basket.csproj|c:\\users\\joshu\\source\\repos\\eshop-distributed\\basket\\basket.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{11C93E6E-64C1-2C2D-B301-852C7CCA6F88}|Basket\\Basket.csproj|solutionrelative:basket\\basket.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C93E6E-64C1-2C2D-B301-852C7CCA6F88}|Basket\\Basket.csproj|c:\\users\\joshu\\source\\repos\\eshop-distributed\\basket\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C93E6E-64C1-2C2D-B301-852C7CCA6F88}|Basket\\Basket.csproj|solutionrelative:basket\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C93E6E-64C1-2C2D-B301-852C7CCA6F88}|Basket\\Basket.csproj|c:\\users\\joshu\\source\\repos\\eshop-distributed\\basket\\endpoints\\basketenpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C93E6E-64C1-2C2D-B301-852C7CCA6F88}|Basket\\Basket.csproj|solutionrelative:basket\\endpoints\\basketenpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C93E6E-64C1-2C2D-B301-852C7CCA6F88}|Basket\\Basket.csproj|c:\\users\\joshu\\source\\repos\\eshop-distributed\\basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C93E6E-64C1-2C2D-B301-852C7CCA6F88}|Basket\\Basket.csproj|solutionrelative:basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Basket.http",
+              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\eshop-distributed\\Basket\\Basket.http",
+              "RelativeDocumentMoniker": "Basket\\Basket.http",
+              "ToolTip": "C:\\Users\\joshu\\source\\repos\\eshop-distributed\\Basket\\Basket.http",
+              "RelativeToolTip": "Basket\\Basket.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-01T06:19:28.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\eshop-distributed\\Basket\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Basket\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\joshu\\source\\repos\\eshop-distributed\\Basket\\GlobalUsings.cs",
+              "RelativeToolTip": "Basket\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:18:18.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\eshop-distributed\\Basket\\Program.cs",
+              "RelativeDocumentMoniker": "Basket\\Program.cs",
+              "ToolTip": "C:\\Users\\joshu\\source\\repos\\eshop-distributed\\Basket\\Program.cs",
+              "RelativeToolTip": "Basket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:17:03.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketEnpoints.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\eshop-distributed\\Basket\\Endpoints\\BasketEnpoints.cs",
+              "RelativeDocumentMoniker": "Basket\\Endpoints\\BasketEnpoints.cs",
+              "ToolTip": "C:\\Users\\joshu\\source\\repos\\eshop-distributed\\Basket\\Endpoints\\BasketEnpoints.cs",
+              "RelativeToolTip": "Basket\\Endpoints\\BasketEnpoints.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:38:17.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

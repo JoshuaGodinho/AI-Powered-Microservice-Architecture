@@ -1,0 +1,32 @@
+@Basket_HostAddress = https://localhost:7198/basket
+
+GET {{Basket_HostAddress}}/joshua
+Accept: application/json
+
+###
+POST {{Basket_HostAddress}}
+Content-Type: application/json
+{
+    "UserName": "joshua",
+    "Items": [
+        {
+        "Quantity": 2,
+        "Color": "Red",
+        "Price": 500,
+        "ProductId": 1,
+        "ProductName": "Solar Powered Flashlight"
+        },
+        {
+        "Quantity": 1,
+        "Color": "Blue",
+        "Price": 500,
+        "ProductId": 2,
+        "ProductName": "Hiking Poles"
+        }
+    ]
+}
+
+###
+
+DELETE {{Basket_HostAddress}}/joshua
+Content-Type: application/json
